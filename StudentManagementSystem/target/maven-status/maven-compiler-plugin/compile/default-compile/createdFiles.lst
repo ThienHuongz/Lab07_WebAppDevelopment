@@ -1,0 +1,9 @@
+com\university\util\DBUtil.class
+com\university\controller\CourseController.class
+com\university\dao\CourseDAO.class
+com\university\model\Course.class
+com\university\model\Student.class
+com\university\controller\StudentController.class
+com\university\studentmanagementsystem\JakartaRestConfiguration.class
+com\university\studentmanagementsystem\resources\JakartaEE10Resource.class
+com\university\dao\StudentDAO.class
